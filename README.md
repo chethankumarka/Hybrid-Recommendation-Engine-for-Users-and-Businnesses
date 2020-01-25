@@ -14,14 +14,14 @@
 
 ### [](#header-3) Architecture:
 
-!["Implementation Architecture"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/fd.png)
+!["Implementation Architecture"](https://github.com/chethankumarka/Hybrid-Recommendation-Engine-for-Users-and-Businnesses/blob/master/assets/images/fd.png)
 
 ### [](#header-3) Level 1 Topic Modelling (with False positives):
 
-!["Topic Modelling"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/itm.png)
+!["Topic Modelling"](https://github.com/chethankumarka/Hybrid-Recommendation-Engine-for-Users-and-Businnesses/blob/master/assets/images/itm.png)
 
 ### [](#header-3) Sample Output:
 
-!["Ouput"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/Sample_output.png)
+!["Ouput"](https://github.com/chethankumarka/Hybrid-Recommendation-Engine-for-Users-and-Businnesses/blob/master/assets/images/Sample_output.png)
 
 <br><br>
